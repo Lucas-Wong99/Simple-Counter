@@ -1,0 +1,13 @@
+html {
+  background-color: grey;
+}
+
+.buttons {
+  display: flex;
+  justify-content: center;
+}
+
+.multanddiv {
+  display: flex;
+  justify-content: center;
+}

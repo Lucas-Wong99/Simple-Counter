@@ -1,0 +1,9 @@
+h2 {
+  font-size: 5rem;
+}
+
+.counter {
+  margin-top: 1rem;
+  display: flex;
+  justify-content: center;
+}
